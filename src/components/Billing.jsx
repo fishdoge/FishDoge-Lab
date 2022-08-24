@@ -1,4 +1,4 @@
-import { apple, bill, google } from "../assets";
+// import { apple, bill, google } from "../assets";
 import styles, { layout } from "../style";
 import { discount, FrameDem } from "../assets";
 import GetStarted from "./GetStarted";
@@ -37,9 +37,9 @@ const Billing = () => (
 
       <div className={`stack flex-1 flex ${styles.flexCenter} md:my-0 mx-5 `}>
         {/* <img src={FrameDem} alt="billing" className="w-[100%] h-[100%] relative z-[5]" /> */}
-        <img src={WhiteBlock} alt="billing" className="w-[65%] h-[65%] -mx-20 z-[10]" />
+        <img src={WhiteBlock} alt="billing" className="w-[50%] h-[65%] -mx-22 z-[10]" />
         <img src={GreenBlock} alt="billing" className="w-[100%] h-[100%] -mx-20 z-[15]" />
-        <img src={WhiteBlock} alt="billing" className="w-[65%] h-[65%] -mx-20  z-[10]" />
+        <img src={WhiteBlock} alt="billing" className="w-[50%] h-[65%] -mx-22  z-[10]" />
 
         {/* gradient start */}
         {/* <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />
