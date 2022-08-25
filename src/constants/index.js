@@ -6,11 +6,11 @@ export const navLinks = [
     title: "Home",
   },
   {
-    id: "features",
+    id: "service",
     title: "Service",
   },
   {
-    id: "product",
+    id: "features",
     title: "Product",
   },
   {
@@ -70,7 +70,7 @@ export const ServiceRepo =[
   {
     id: "feedback-4",
     content:
-      "Recruitment, VC Connection, Sales, RD, Macking, sodtware outsourcing, Include Web3 wallet app etc.",
+      "Recruitment, VC Connection, Sales, RD, Macking, software outsourcing, Include Web3 wallet app etc.",
     name: "Connection",
     title: "",
     img: FDT04,
