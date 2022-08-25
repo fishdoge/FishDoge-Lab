@@ -7,7 +7,8 @@
     "dev": "vite",
     "start": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "cname": "echo '' >> ./dist/CNAME"
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -20,6 +21,7 @@
     "autoprefixer": "^10.4.8",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8",
+    "gh-pages": "^3.2.3",
     "vite": "^3.0.7"
   }
 }
