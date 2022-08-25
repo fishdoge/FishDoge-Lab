@@ -8,7 +8,7 @@
     "start": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "cname": "echo '' >> ./dist/CNAME"
+    "cname": "echo 'lab.fishdoge.com' >> ./dist/CNAME"
   },
   "dependencies": {
     "react": "^18.2.0",
