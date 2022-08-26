@@ -99,13 +99,13 @@ export const feedback = [
     content:
       "Dapp developer of FishDoge Lab, NTHU , 3 years of development experience.",
     name: "Wesley Liu",
-    title: "Full-stack,blockchain dev ",
+    title: "Blockchain dev ",
     img: people03,
   },
   {
     id: "feedback-4",
     content:
-      "Font-end developer of FishDoge Lab.",
+      "Font-end developer of FishDoge Lab, Jr developer, Nft player.",
     name: "David Yan",
     title: "Font-end dev ",
     img: people04,

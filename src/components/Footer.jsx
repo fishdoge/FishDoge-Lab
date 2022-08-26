@@ -13,7 +13,8 @@ const Footer = () => (
           className="w-[256px] h-[112.14px] object-contain"
         />
         <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
-          A new way to make the payments easy, reliable and secure.
+          A blockchain solution company, serve every proble on blockchain.
+
         </p>
       </div>
 

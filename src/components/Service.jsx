@@ -11,12 +11,7 @@ const Service = () => (
        Our Sevice <br className="sm:block hidden" />
       </h2>
 
-      {/* <div className="w-full md:mt-0 mt-6">
-        <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-          Everything you need to accept card payments and grow your business
-          anywhere on the planet.
-        </p>
-      </div> */}
+
     </div>
     {/* <div className="flex flex-wrap sm:justify-start justify-center  feedback-container relative z-[1]">
       <p className={`${styles.paragraph} text-left max-w-[550px]`}>Create Smart and support Web2 componey join in Web3</p>
