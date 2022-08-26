@@ -89,7 +89,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Founder and the CTO of FishDoge Lab, Graduated from NTU , SUDO Reacearch researcher, ",
+      "Founder and the CTO of FishDoge Lab, Graduated from NTU , SUDO Reacearch researcher. ",
     name: "Shawn Chang",
     title: "Founder & CTO",
     img: people02,
@@ -97,15 +97,15 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Dapp developer of FishDoge Lab, NTHU , 3 years of development experience.",
     name: "Wesley Liu",
-    title: "Full-stack dev ",
+    title: "Full-stack,blockchain dev ",
     img: people03,
   },
   {
     id: "feedback-4",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Font-end developer of FishDoge Lab.",
     name: "David Yan",
     title: "Font-end dev ",
     img: people04,
