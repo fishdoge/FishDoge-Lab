@@ -29,9 +29,7 @@ const Billing = () => (
           We Have Done
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Our team of experts uses a methodology to identify the credit cards
-          most likely to fit your needs. We examine annual percentage rates,
-          annual fees.
+          Our team support over 10  teams to create their onchain product, include NFT, Erc20 token, Defi protocal, IEO etc.
         </p>
       </div>
 

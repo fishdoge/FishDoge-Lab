@@ -13,7 +13,7 @@ const Footer = () => (
           className="w-[256px] h-[112.14px] object-contain"
         />
         <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
-          A blockchain solution company, serve every proble on blockchain.
+          A blockchain solution company, serve every problem on blockchain.
 
         </p>
       </div>
