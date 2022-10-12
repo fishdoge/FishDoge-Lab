@@ -143,10 +143,6 @@ export const footerLinks = [
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
-        name: "Create",
-        link: "https://www.hoobank.com/create/",
-      },
-      {
         name: "Explore",
         link: "https://www.hoobank.com/explore/",
       },
@@ -175,10 +171,7 @@ export const footerLinks = [
         name: "Blog",
         link: "https://www.hoobank.com/blog/",
       },
-      {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
-      },
+
     ],
   },
   {
