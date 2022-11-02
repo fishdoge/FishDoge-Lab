@@ -22,12 +22,10 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-      The business we are <br className="sm:block hidden" />  responsible for.
+      我們負責的業務 <br className="sm:block hidden" /> 
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+        在市面上數以百張的信用卡，使用到對的信用卡，你可以藉由建立信用、賺紅利點數，省下錢，來提升你的財務生活。
       </p>
 
       <Button styles={`mt-10`} />

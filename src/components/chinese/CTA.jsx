@@ -6,7 +6,7 @@ const CTA = () => (
     <div className="flex-1 flex flex-col">
       <h2 className={styles.heading2}>Let’s try our service!</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Contact us for more information
+        聯絡我們以獲取更多資訊
       </p>
     </div>
 
