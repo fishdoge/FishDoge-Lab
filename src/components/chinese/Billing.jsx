@@ -18,7 +18,7 @@ const Billing = () => (
         <div className="flex flex-row justify-between items-center w-full">
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
             The<br className="sm:block hidden" />{" "}
-            <span className="text-gradient">Product</span>{" "}
+            <span className="text-gradient">產品</span>{" "}
           </h1>
           {/* <div className="ss:flex hidden md:mr-4 mr-0">
             <GetStarted />
@@ -26,10 +26,10 @@ const Billing = () => (
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-          We Have Done
+          我們已經完成了
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Our team support over 10  teams to create their onchain product, include NFT, Erc20 token, Defi protocal, IEO etc.
+          我們團隊支援超過10個團隊建立其鏈上產品，其中包含NFT, Erc20 token, Defi protocal, IEO...
         </p>
       </div>
 

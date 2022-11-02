@@ -8,7 +8,7 @@ const Service = () => (
 
     <div className=" flex justify-between items-center md:flex-row flex-col sm:mb-6 mb-6 relative z-[1]">
       <h2 className={styles.heading2}>
-       Our Sevice <br className="sm:block hidden" />
+       我們的服務 <br className="sm:block hidden" />
       </h2>
 
 
