@@ -1,12 +1,12 @@
-// import { card } from "../assets";
-import styles, { layout } from "../style";
+// import { card } from "./assets";
+import styles, { layout } from "./style";
 import Button from "./Button";
 
 const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        使用以下簡單的幾步找到理想的卡 <br className="sm:block hidden" /> 
+        使用以下簡單的幾步找到理想的卡 <br className="sm:block hidden" />
         steps.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>

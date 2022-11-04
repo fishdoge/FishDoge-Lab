@@ -1,8 +1,8 @@
-// import { apple, bill, google } from "../assets";
-import styles, { layout } from "../style";
-import { discount, FrameDem } from "../assets";
+// import { apple, bill, google } from "./assets";
+import styles, { layout } from "./style";
+import { discount, FrameDem } from "./assets";
 import GetStarted from "./GetStarted";
-import { WhiteBlock,GreenBlock} from "../newassets"
+import { WhiteBlock,GreenBlock} from "./newassets"
 
 const Billing = () => (
   <section id="home" className={`flex  md:flex-row flex-col ${styles.paddingY}`}>

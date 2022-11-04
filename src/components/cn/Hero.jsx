@@ -1,5 +1,5 @@
-import styles from "../style";
-import { discount, FrameDem } from "../assets";
+import styles from "./style";
+import { discount, FrameDem } from "./assets";
 import GetStarted from "./GetStarted";
 
 const Hero = () => {

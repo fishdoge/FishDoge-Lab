@@ -1,5 +1,5 @@
-import { features } from "../constants";
-import styles, { layout } from "../style";
+import { features } from "./constants";
+import styles, { layout } from "./style";
 import Button from "./Button";
 
 const FeatureCard = ({ icon, title, content, index }) => (
@@ -22,7 +22,7 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-      我們負責的業務 <br className="sm:block hidden" /> 
+      我們負責的業務 <br className="sm:block hidden" />
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         在市面上數以百張的信用卡，使用到對的信用卡，你可以藉由建立信用、賺紅利點數，省下錢，來提升你的財務生活。
