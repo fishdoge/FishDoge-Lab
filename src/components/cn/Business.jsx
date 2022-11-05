@@ -25,7 +25,7 @@ const Business = () =>  (
       我們負責的業務 <br className="sm:block hidden" />
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        在市面上數以百張的信用卡，使用到對的信用卡，你可以藉由建立信用、賺紅利點數，省下錢，來提升你的財務生活。
+        協助諮詢並協助專屬的區塊鏈架構，包含GameFi NFT 智能合約等區塊鏈解決方案，都可以由我們來設計。
       </p>
 
       <Button styles={`mt-10`} />

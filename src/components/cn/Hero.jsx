@@ -25,7 +25,7 @@ const Hero = () => {
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-        Solutions.
+        解決方案設計.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           Crypto Currency platform,Web3 social Media, Gamefi , What every you want to build on blockchain,we will support you! Mail to fishdogestudio66@gmail.com

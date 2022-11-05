@@ -4,7 +4,7 @@ import Button from "./Button";
 const CTA = () => (
   <section className={`${styles.flexCenter} ${styles.marginY} ${styles.padding} sm:flex-row flex-col bg-black-gradient-2 rounded-[20px] box-shadow`}>
     <div className="flex-1 flex flex-col">
-      <h2 className={styles.heading2}>Let’s try our service!</h2>
+      <h2 className={styles.heading2}>來跟我們聯繫吧!</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         聯絡我們以獲取更多資訊
       </p>

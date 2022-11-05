@@ -23,21 +23,21 @@ export const features = [
   {
     id: "feature-1",
     icon: StarGreen,
-    title: "Blockchain product design",
+    title: "區塊鏈產品設計",
     content:
       "Build blockchain products NFT token Defi protocal Wallet Testing elements",
   },
   {
     id: "feature-2",
     icon: ShieldGreen,
-    title: "Smart contract on Ethereum",
+    title: "以太坊上的智能合約",
     content:
       "We accept the company's entrustment tobuild Smart contracts on Ethereum and Solana.",
   },
   {
     id: "feature-3",
     icon: EthereumSV,
-    title: "Blockchain Solution",
+    title: "區塊鏈解決方案",
     content:
       "Support the Web2 componey to create Web3 solutions,make the Web2 componey smoothly work on blockChain",
   },
@@ -47,7 +47,7 @@ export const ServiceRepo =[
   {
     id: "feedback-1",
     content:"Support company for Education Training,Include decentralization Finance teaching",
-    name: "Education Training",
+    name: "教育訓練",
     title: "",
     img: FDT01,
   },
@@ -55,7 +55,7 @@ export const ServiceRepo =[
     id: "feedback-2",
     content:
       "Helping Web2 company convert to web3 field and supply solutions,Include finance product.",
-    name: "Solution supply",
+    name: "解決方案協助",
     title: "",
     img: FDT02,
   },
@@ -63,7 +63,7 @@ export const ServiceRepo =[
     id: "feedback-3",
     content:
       "Smart Contract - Solidity  ,building, testing, design detection elements, contract review.",
-    name: "Smart Contract",
+    name: "智能合約",
     title: "",
     img: FDT03,
   },
@@ -71,7 +71,7 @@ export const ServiceRepo =[
     id: "feedback-4",
     content:
       "Recruitment, VC Connection, Sales, RD, Macking, software outsourcing, Include Web3 wallet app etc.",
-    name: "Connection",
+    name: "區塊鏈業務對接",
     title: "",
     img: FDT04,
   }

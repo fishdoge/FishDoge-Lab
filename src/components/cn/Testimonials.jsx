@@ -8,11 +8,11 @@ const Testimonials = () => (
 
     <div className="w-full flex justify-between items-center md:flex-row flex-col sm:mb-16 mb-6 relative z-[1]">
       <h2 className={styles.heading2}>
-        外面的人如何評價我們公司 <br className="sm:block hidden" />
+        關於我們公司 <br className="sm:block hidden" />
       </h2>
       <div className="w-full md:mt-0 mt-6">
         <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-          任何你所想要在區塊鏈上設計的產品
+
         </p>
       </div>
     </div>
