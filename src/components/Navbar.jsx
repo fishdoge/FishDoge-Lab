@@ -14,7 +14,7 @@ const Navbar = ()=>{
       {/*  #b7ff1a */}
       
       <ul className="list-none font-bold sm:flex hidden hidden justify-end items-center flex-1">
-      <button className="bg-[#b7ff1a]  hover:bg-blue-700 text-[#000000] font-bold justify-end mr-[30px] py-2 px-4 rounded-full">中文</button>
+      <button className="bg-[#b7ff1a] font-semibold   hover:bg-blue-700 text-[#000000] font-bold justify-end mr-[30px] py-2 px-4 rounded-full">中文</button>
         {navLinks.map((nav,index)=>(
           <li
             key ={nav.id}
