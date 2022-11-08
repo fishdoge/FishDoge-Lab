@@ -1,8 +1,8 @@
-// import { apple, bill, google } from "../assets";
-import styles, { layout } from "../style";
-import { discount, FrameDem } from "../assets";
+// import { apple, bill, google } from "./assets";
+import styles, { layout } from "./style";
+import { discount, FrameDem } from "./assets";
 import GetStarted from "./GetStarted";
-import { WhiteBlock,GreenBlock} from "../newassets"
+import { WhiteBlock,GreenBlock} from "./newassets"
 
 const Billing = () => (
   <section id="home" className={`flex  md:flex-row flex-col ${styles.paddingY}`}>
@@ -17,8 +17,8 @@ const Billing = () => (
 
         <div className="flex flex-row justify-between items-center w-full">
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
-            The<br className="sm:block hidden" />{" "}
-            <span className="text-gradient">產品</span>{" "}
+            <br className="sm:block hidden" />{" "}
+            <span className="text-gradient">我們已經完成的</span>{" "}
           </h1>
           {/* <div className="ss:flex hidden md:mr-4 mr-0">
             <GetStarted />
@@ -26,10 +26,10 @@ const Billing = () => (
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-          我們已經完成了
+          產品
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          我們團隊支援超過10個團隊建立其鏈上產品，其中包含NFT, Erc20 token, Defi protocal, IEO...
+          我們團隊支援超過10個團隊建立其鏈上產品，其中包含NFT, Erc20 token, Defi protocal, IEO...等
         </p>
       </div>
 

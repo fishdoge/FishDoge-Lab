@@ -1,11 +1,19 @@
 import React from 'react';
-
+import {BrowserRouter as Router,Route,Routes} from 'react-router-dom';
 import ReactDOM from 'react-dom/client';
 import App from './App';
+import CnLangApp from './components/cn/CnApp';
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
+    <Router>
+      <Routes>
+        <Route exact path="/" element={ <App/>} />
+        <Route path="/cn" element={<CnLangApp/>} />
+      </Routes>
+
+      {/* <App /> */}
+    </Router>
   </React.StrictMode>
 );

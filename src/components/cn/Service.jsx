@@ -1,5 +1,5 @@
-import { ServiceRepo } from "../constants";
-import styles from "../style";
+import { ServiceRepo } from "./constants";
+import styles from "./style";
 import SupportCard from "./SupportCard";
 
 const Service = () => (
