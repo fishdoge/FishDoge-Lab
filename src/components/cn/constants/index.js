@@ -81,7 +81,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Founder and the CEO of FishDoge Lab, Cypherpunks - Taiwan early members, Blockchain solution engineer.",
+      "Founder and the CEO of FishDoge Lab, Cypherpunks - Taiwan early member, Blockchain solution engineer.",
     name: "Aaron Yan",
     title: "Founder & CEO",
     img: people01,
@@ -89,7 +89,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Founder and the CTO of FishDoge Lab, Graduated from NTU , SUDO Reacearch researcher. ",
+      "Founder and the CTO of FishDoge Lab, Graduated from NTU , SuDo Research Labs researcher. ",
     name: "Shawn Chang",
     title: "Founder & CTO",
     img: people02,
