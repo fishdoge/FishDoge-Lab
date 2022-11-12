@@ -1,6 +1,7 @@
 import { features } from "./constants";
 import styles, { layout } from "./style";
 import Button from "./Button";
+import {Link} from "react-router-dom";
 
 const FeatureCard = ({ icon, title, content, index }) => (
   <div className={`flex flex-row p-6 rounded-[20px] ${index !== features.length - 1 ? "mb-6" : "mb-0"} feature-card`}>
@@ -28,7 +29,9 @@ const Business = () =>  (
         協助諮詢並協助專屬的區塊鏈架構，包含GameFi NFT 智能合約等區塊鏈解決方案，都可以由我們來設計。
       </p>
 
-      <Button styles={`mt-10`} />
+      <Link to='/mails'>
+        <Button styles={`mt-10`} />
+      </Link>
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>
