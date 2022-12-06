@@ -3,6 +3,7 @@ import {BrowserRouter as Router,Route,Routes} from 'react-router-dom';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import CnLangApp from './components/cn/CnApp';
+import QrcodemintNFT from './components/qrcodemint/Qrmimnt';
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -11,6 +12,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <Routes>
         <Route exact path="/" element={ <App/>} />
         <Route path="/cn" element={<CnLangApp/>} />
+        <Route path="/qr" element={<QrcodemintNFT/>} />
       </Routes>
 
       {/* <App /> */}
