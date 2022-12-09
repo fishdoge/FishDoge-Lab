@@ -112,6 +112,41 @@ export const feedback = [
   },
 ];
 
+export const feedback2 = [
+  {
+    id: "feedback-1",
+    content:
+      "Founder and the CEO of FishDoge Lab, Cypherpunks - Taiwan early member, Blockchain solution engineer.",
+    name: "Fred Zhuang",
+    title: "Assistant engineer",
+    img: people01,
+  },
+  {
+    id: "feedback-2",
+    content:
+      "Founder and the CTO of FishDoge Lab, Graduated from NTU , SuDo Research Labs researcher. ",
+    name: "Wade Chen",
+    title: "Back-end Dev",
+    img: people02,
+  },
+  {
+    id: "feedback-3",
+    content:
+      "Dapp developer of FishDoge Lab, NTHU , 3 years of development experience.",
+    name: "Andy ",
+    title: "full-end Dev",
+    img: people03,
+  },
+  {
+    id: "feedback-4",
+    content:
+      "Font-end developer of FishDoge Lab, Jr developer, Nft player.",
+    name: "Tershi Xia",
+    title: "Api dev ",
+    img: people04,
+  },
+];
+
 export const stats = [
   {
     id: "stats-1",
