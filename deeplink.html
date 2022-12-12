@@ -1,0 +1,14 @@
+<script type="text/javascript" src="https://cdn.metamask.io/metamask.min.js"></script>
+
+<script type="text/javascript">
+  if (typeof web3 !== 'undefined') {
+    // 用户安装了 MetaMask
+    let deeplinkParams = {
+      type: 'send',
+      value: '0x1234567890abcdef'
+    };
+    web3.currentProvider.request(deeplinkParams);
+  } else {
+    // 用户没有安装 MetaMask
+  }
+</script>

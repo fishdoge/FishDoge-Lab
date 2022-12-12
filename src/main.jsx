@@ -4,6 +4,7 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 import CnLangApp from './components/cn/CnApp';
 import QrcodemintNFT from './components/qrcodemint/Qrmimnt';
+import Mails from './components/Mail';
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -13,6 +14,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         <Route exact path="/" element={ <App/>} />
         <Route path="/cn" element={<CnLangApp/>} />
         <Route path="/qr" element={<QrcodemintNFT/>} />
+        <Route path="/mails" element={<Mails/>} />
       </Routes>
 
       {/* <App /> */}
