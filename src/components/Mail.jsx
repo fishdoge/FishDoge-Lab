@@ -17,7 +17,7 @@ const Mails = () => {
     setSubmitState("sent")
     event.preventDefault()
     console.log("submitting...", inputs,)
-    const resData = await fetch(`http://houngwang.vercel.app/api/fishdogmail?addr=${inputs.mail}`
+    const resData = await fetch(`https://houngwang.vercel.app/api/fishdogmail?addr=${inputs.mail}`
       , {
         method: 'POST',
         headers: {
