@@ -26,16 +26,14 @@ const Business = () =>  (
       The business we are <br className="sm:block hidden" />  responsible for.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+      Assist you in establishing a blockchain system, writing development documents, and optimizing the design process.
       </p>
       <Link to='/mails'>
         <Button styles={`mt-10`} />
       </Link>
 
     </div>
-    
+
 
     <div className={`${layout.sectionImg} mt-[50px] flex-col`}>
       {features.map((feature, index) => (
