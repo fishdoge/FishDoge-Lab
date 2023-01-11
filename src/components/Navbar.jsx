@@ -18,7 +18,7 @@ const Navbar = ()=>{
 
 
           <Link to='/cn' >
-            <button className="bg-[#b7ff1a]  hover:bg-[#FFFFFF] text-[#000000] font-bold justify-end mr-[30px] py-2 px-4 rounded-full">中文</button>
+            <button className="bg-[#b7ff1a]  hover:bg-[#FFFFFF] text-[#000000] font-bold justify-end mr-[30px] py-1.5 px-4 rounded-full">中文</button>
           </Link>
 
 
