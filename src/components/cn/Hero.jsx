@@ -28,7 +28,7 @@ const Hero = () => {
         解決方案設計.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Crypto Currency platform,Web3 social Media, Gamefi , What every you want to build on blockchain,we will support you! Mail to fishdogestudio66@gmail.com
+          我們一直專注於設計有趣的區塊鏈產品，包含Token NFT Defi 還有一些保存及資料上鏈等，如果有興趣可以透過fishdogestudio66@gmail.com來聯絡我們。
         </p>
       </div>
 
