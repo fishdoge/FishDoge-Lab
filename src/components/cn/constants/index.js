@@ -1,4 +1,4 @@
-import { people01, people02, people03,people04, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03,people04,people05,people06,people07,people08, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
 import {StarGreen,ShieldGreen,EthereumSV, FDT01,FDT02,FDT03,FDT04} from "../newassets";
 export const navLinks = [
   {
@@ -109,43 +109,45 @@ export const feedback = [
     name: "David Yan",
     title: "Font-end dev ",
     img: people04,
-  },
+  }
 ];
 
 export const feedback2 = [
   {
-    id: "feedback-1",
-    content:
-      "Founder and the CEO of FishDoge Lab, Cypherpunks - Taiwan early member, Blockchain solution engineer.",
-    name: "Fred Zhuang",
-    title: "Assistant engineer",
-    img: people01,
-  },
-  {
     id: "feedback-2",
     content:
-      "Founder and the CTO of FishDoge Lab, Graduated from NTU , SuDo Research Labs researcher. ",
+      "Senior Backend Developer,Familiar with Golang solidity Solana Rust development models",
     name: "Wade Chen",
     title: "Back-end Dev",
-    img: people02,
+    img: people06,
   },
   {
     id: "feedback-3",
     content:
-      "Dapp developer of FishDoge Lab, NTHU , 3 years of development experience.",
+      "Web developer of FishDoge Lab, NTHU , 4 years of development experience.",
     name: "Andy ",
-    title: "full-end Dev",
-    img: people03,
+    title: "full-stack Dev",
+    img: people05,
   },
   {
     id: "feedback-4",
     content:
-      "Font-end developer of FishDoge Lab, Jr developer, Nft player.",
+      "Internship Software Developer, Good at python development. ",
     name: "Tershi Xia",
     title: "Api dev ",
-    img: people04,
+    img: people07,
   },
+  ,
+  {
+    id: "feedback-4",
+    content:
+      "Ntnu, pycon speaker, Spent a lot of time studying machine learning.",
+    name: "Eason",
+    title: "Python dev ",
+    img: people08,
+  }
 ];
+
 
 export const stats = [
   {

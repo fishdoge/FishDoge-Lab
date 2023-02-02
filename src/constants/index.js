@@ -1,4 +1,4 @@
-import { people01, people02, people03,people04, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03,people04,people05,people06,people07,people08, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
 import {StarGreen,ShieldGreen,EthereumSV, FDT01,FDT02,FDT03,FDT04} from "../newassets";
 export const navLinks = [
   {
@@ -111,6 +111,42 @@ export const feedback = [
     img: people04,
   },
 ];
+
+export const feedback2 = [
+  {
+    id: "feedback-2",
+    content:
+      "Senior Backend Developer,Familiar with Golang solidity Solana Rust development models.",
+    name: "Wade",
+    title: "Back-end Dev",
+    img: people06,
+  },
+  {
+    id: "feedback-3",
+    content:
+      "Web developer of FishDoge Lab, NTHU , 4 years of development experience.",
+    name: "Andy ",
+    title: "full-stack Dev",
+    img: people05,
+  },
+  {
+    id: "feedback-4",
+    content:
+      "Internship Software Developer.python & Linux development.",
+    name: "Tershi Xia",
+    title: "Api dev ",
+    img: people07,
+  },
+  {
+    id: "feedback-4",
+    content:
+      "Ntnu, pycon speaker, Spent a lot of time studying machine learning.",
+    name: "Eason",
+    title: "Python dev ",
+    img: people08,
+  }
+];
+
 
 export const stats = [
   {
