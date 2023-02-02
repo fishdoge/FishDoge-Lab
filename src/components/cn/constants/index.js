@@ -46,7 +46,7 @@ export const features = [
 export const ServiceRepo =[
   {
     id: "feedback-1",
-    content:"Support company for Education Training,Include decentralization Finance teaching",
+    content:"協助企業主題設計Web3&區塊鏈講座與專題，也提供區塊鏈技術內部課程培訓。",
     name: "教育訓練",
     title: "",
     img: FDT01,
@@ -54,7 +54,7 @@ export const ServiceRepo =[
   {
     id: "feedback-2",
     content:
-      "Helping Web2 company convert to web3 field and supply solutions,Include finance product.",
+      "協助傳統Web2公司設計企業級需求的解決方案，提供規格書與應用架構設計&諮詢。",
     name: "解決方案協助",
     title: "",
     img: FDT02,
@@ -62,7 +62,7 @@ export const ServiceRepo =[
   {
     id: "feedback-3",
     content:
-      "Smart Contract - Solidity  ,building, testing, design detection elements, contract review.",
+      "開發以太坊Ethereum, Solana, Aptos, Sui等智能合約，並提供測試，發行模擬等服務。",
     name: "智能合約",
     title: "",
     img: FDT03,
@@ -70,7 +70,7 @@ export const ServiceRepo =[
   {
     id: "feedback-4",
     content:
-      "Recruitment, VC Connection, Sales, RD, Macking, software outsourcing, Include Web3 wallet app etc.",
+      "提供區塊鏈業務仲介服務，包含尋找web3 KOL Mod 技術對接，也協助Web3企業尋找人才。",
     name: "區塊鏈業務對接",
     title: "",
     img: FDT04,
@@ -81,7 +81,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Founder and the CEO of FishDoge Lab, Cypherpunks - Taiwan early member, Blockchain solution engineer.",
+      "FishDoge Lab CEO，曾在台灣隱私權力社群Cypherpunks - Taiwan擔任翻譯與開發者，於2017開始研究區塊鏈開發等技術，並擔任區塊鏈工程師三年。",
     name: "Aaron Yan",
     title: "Founder & CEO",
     img: people01,
@@ -89,7 +89,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Founder and the CTO of FishDoge Lab, Graduated from NTU , SuDo Research Labs researcher. ",
+      "FishDooge Lab CTO與聯合創辦人，NTU，曾在Sudo research 擔任研究員，撰寫並開發區塊鏈產品4年經驗",
     name: "Shawn Chang",
     title: "Founder & CTO",
     img: people02,
@@ -97,7 +97,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "Dapp developer of FishDoge Lab, NTHU , 3 years of development experience.",
+      "區塊鏈與前端工程師，NTHU，有三年開發區塊鏈產品經驗，擅長使用NextJS Firebase等開發軟體進行產品開發。",
     name: "Wesley Liu",
     title: "Blockchain dev ",
     img: people03,
@@ -105,7 +105,7 @@ export const feedback = [
   {
     id: "feedback-4",
     content:
-      "Font-end developer of FishDoge Lab, Jr developer, Nft player.",
+      "FishDoge Lab的前端工程師，負責css 以及網頁切版，對於前端互動設計十分熟悉。",
     name: "David Yan",
     title: "Font-end dev ",
     img: people04,
@@ -116,7 +116,7 @@ export const feedback2 = [
   {
     id: "feedback-2",
     content:
-      "Senior Backend Developer,Familiar with Golang solidity Solana Rust development models",
+      "資深後端工程師，擅長寫Go Rust 等複雜的程式語言，也會寫Solana 與 Aptos之智能合約。",
     name: "Wade Chen",
     title: "Back-end Dev",
     img: people06,
@@ -124,7 +124,7 @@ export const feedback2 = [
   {
     id: "feedback-3",
     content:
-      "Web developer of FishDoge Lab, NTHU , 4 years of development experience.",
+      "資深前端工程師，擁有五年前端開發經驗，擅長使用ReactJS Go 等進行網站網頁的開發",
     name: "Andy ",
     title: "full-stack Dev",
     img: people05,
@@ -132,7 +132,7 @@ export const feedback2 = [
   {
     id: "feedback-4",
     content:
-      "Internship Software Developer, Good at python development. ",
+      "實習工程師，非常熱衷於學習各種類型的開發模式與接觸各種類型的程式語言。",
     name: "Tershi Xia",
     title: "Api dev ",
     img: people07,
@@ -141,7 +141,7 @@ export const feedback2 = [
   {
     id: "feedback-4",
     content:
-      "Ntnu, pycon speaker, Spent a lot of time studying machine learning.",
+      "Ntnu, pycon 與 Sitcom 講師，熱衷於機器學習，並且也擅長區塊鏈產品開發。",
     name: "Eason",
     title: "Python dev ",
     img: people08,
