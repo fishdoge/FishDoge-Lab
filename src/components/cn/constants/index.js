@@ -142,8 +142,8 @@ export const feedback2 = [
     id: "feedback-4",
     content:
       "Ntnu, pycon 與 Sitcom 講師，熱衷於機器學習，並且也擅長區塊鏈產品開發。",
-    name: "Eason",
-    title: "Python dev ",
+    name: "Eason Chen",
+    title: "Researcher",
     img: people08,
   }
 ];

@@ -140,9 +140,9 @@ export const feedback2 = [
   {
     id: "feedback-4",
     content:
-      "Ntnu, pycon speaker, Spent a lot of time studying machine learning.",
-    name: "Eason",
-    title: "Python dev ",
+      "Specialized in Blockchain, AI, and Education solutions. Delivered 10+ talks in developer communities.",
+    name: "Eason Chen",
+    title: "Researcher",
     img: people08,
   }
 ];
