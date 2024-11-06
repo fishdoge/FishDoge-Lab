@@ -1,4 +1,4 @@
-import { feedback,feedback2 } from "../constants";
+import { feedback,feedback2,feedback3 } from "../constants";
 import styles from "../style";
 import FeedbackCard from "./FeedbackCard";
 
@@ -23,6 +23,9 @@ const Testimonials = () => (
     </div>
     <div className="flex flex-wrap sm:justify-start justify-center w-full feedback-container relative z-[1]">
       {feedback2.map((card) => <FeedbackCard key={card.id} {...card} />)}
+    </div>
+    <div className="flex flex-wrap sm:justify-start justify-center w-full feedback-container relative z-[1]">
+      {feedback3.map((card) => <FeedbackCard key={card.id} {...card} />)}
     </div>
   </section>
 );

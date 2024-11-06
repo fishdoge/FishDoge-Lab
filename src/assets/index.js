@@ -25,6 +25,10 @@ import people05 from "./people05.png";
 import people06 from "./people06.png";
 import people07 from "./people07.png";
 import people08 from "./people08.png";
+import people09 from "./people09.jpg";
+import people10 from "./people10.jpg";
+import people11 from "./people11.jpg";
+import people12 from "./people12.jpg";
 import LOGO from "./LOGO.png";
 import FrameDem from "./FrameDemo.png"
 export {
@@ -56,5 +60,9 @@ export {
   people05,
   people06,
   people07,
-  people08
+  people08,
+  people09,
+  people10,
+  people11,
+  people12
 };

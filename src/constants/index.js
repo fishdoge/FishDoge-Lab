@@ -1,5 +1,10 @@
-import { people01, people02, people03,people04,people05,people06,people07,people08, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03,people04,people05,people06,people07,people08, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, people09,
+  people10,
+  people11,
+  people12
+} from "../assets";
 import {StarGreen,ShieldGreen,EthereumSV, FDT01,FDT02,FDT03,FDT04} from "../newassets";
+
 export const navLinks = [
   {
     id: "home",
@@ -145,6 +150,44 @@ export const feedback2 = [
     title: "Researcher",
     img: people08,
   }
+
+];
+
+
+export const feedback3 = [
+  {
+    id: "feedback-2",
+    content:
+      "A creative and lively creator who often provides everyone with interesting ideas.",
+    name: "Eric",
+    title: "Marketing",
+    img: people10,
+  },
+  {
+    id: "feedback-3",
+    content:
+      "Blockchain researchers and developers who enjoy conceptualizing blockchain products.",
+    name: "Tom",
+    title: "C++ Dev",
+    img: people09,
+  },
+  {
+    id: "feedback-4",
+    content:
+      "A Senior Project Manager, serving in the management team of a publicly listed company.",
+    name: "Roger",
+    title: "Senior PM",
+    img: people11,
+  },
+  {
+    id: "feedback-4",
+    content:
+      "Backend dev, happy and serious, good at python, goland and javascript.",
+    name: "Leon",
+    title: "Backend dev",
+    img: people12,
+  }
+
 ];
 
 
